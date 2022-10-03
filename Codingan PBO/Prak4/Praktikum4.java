@@ -1,3 +1,7 @@
+//Nama = Riska Octavia Arianto
+//NIM  = 21091397059
+//Prodi = D4 Manajemen Informatika 2021(A)
+
 public class Praktikum4{
 
     
